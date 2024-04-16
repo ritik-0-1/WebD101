@@ -59,3 +59,6 @@ Use starter code to start each section, and **final code to compare it with your
 ### Q13: Do you accept pull requests?
 
 **A:** No, for the simple reason that I want this repository to contain the _exact_ same code that is shown in the videos. However, please feel free to add an issue if you found one.
+
+![image](https://github.com/ritik-0-1/WebD101/assets/71827555/c7974aa1-1348-49e3-8cf9-b5064b7e8049)
+
